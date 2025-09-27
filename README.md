@@ -119,4 +119,4 @@ The goal is to analyze runtime, recursion depth, and comparisons, then compare e
 ## How to Run
 1. Clone repo:  
 ```bash
-git clone https://github.com/username/assignment1-algos.git
+git clone https://github.com/semkair/Algorithms-1-
